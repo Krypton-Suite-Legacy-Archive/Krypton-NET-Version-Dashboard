@@ -24,35 +24,9 @@
 
 **Details coming soon!**
 
-<!--+----------+------------------+---------------+-----------+-----------+
-| Version  | NuGet Link       | Nuget Version | Downloads | Repo Link |
-+==========+==================+===============+===========+===========+
-| 5.400    | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20.NET%205.400-brightgreen.svg)](https://www.nuget.org/packages/KryptonToolkitSuite5400/)                  | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| 5.450    | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| 5.451    | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| 5.452    | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| 5.600    | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
-| Column 1 | Column 2   | Data          | Data      | Data      |
-+----------+------------+---------------+-----------+-----------+
--->
-
-
+| Version | NuGet Link | Current NuGet Version | Downloads | Repository Link | Last Commit |
+|---|---|---|---|---|---|
+| 5.400 | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.400-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5400/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5400.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonExtendedToolkit5400.svg?color=blue&label=NuGet%20Downloads) | [Go to repository](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.400) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.400/master.svg) |
+| 5.450 | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.450-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5450/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5450.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonExtendedToolkit5450.svg?color=blue&label=NuGet%20Downloads) | [Go to repository](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.450) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.450/master.svg) |
+| 5.451 | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.451-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5451/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5451.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonExtendedToolkit5451.svg?color=blue&label=NuGet%20Downloads) | [Go to repository](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.451) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.451/master.svg) |
+| 5.452 | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.452-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5452/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5452.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonExtendedToolkit5452.svg?color=blue&label=NuGet%20Downloads) | [Go to repository](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.452) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.452/master.svg) |
