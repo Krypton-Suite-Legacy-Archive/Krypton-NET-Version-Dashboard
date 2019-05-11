@@ -18,6 +18,8 @@
 | 5.472 | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20.NET%205.472-brightgreen.svg)](https://www.nuget.org/packages/KryptonToolkitSuite5472/) | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5472.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5472.svg?color=blue&label=NuGet%20Downloads) | [Go to repository](https://github.com/Wagnerp/Krypton-NET-5.472) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-NET-5.472/master.svg) |
 | 5.480 | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20.NET%205.480-brightgreen.svg)](https://www.nuget.org/packages/KryptonToolkitSuite5480/) | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5480.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5480.svg?color=blue&label=NuGet%20Downloads) | [Go to repository](https://github.com/Wagnerp/Krypton-NET-5.480) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-NET-5.480/master.svg) |
 
+=======================================================================================================
+
 
 <!--+----------+------------------+---------------+-----------+-----------+
 | Version  | NuGet Link       | Nuget Version | Downloads | Repo Link |
