@@ -22,8 +22,6 @@
 
 ## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/KR%2064%20%20x%2064%20Orange.png" /> .NET Extended Toolkit Information
 
-**Details coming soon!**
-
 | Version | NuGet Link | Current NuGet Version | Downloads | Repository Link | Last Commit |
 |---|---|---|---|---|---|
 | 5.400 | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.400-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5400/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5400.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonExtendedToolkit5400.svg?color=blue&label=NuGet%20Downloads) | [Go to repository](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.400) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.400/master.svg) |
