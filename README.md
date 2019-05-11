@@ -20,6 +20,9 @@
 
 ================================================================================
 
+## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/KR%2064%20%20x%2064%20Orange.png" /> .NET Extended Toolkit Information
+
+**Details coming soon!**
 
 <!--+----------+------------------+---------------+-----------+-----------+
 | Version  | NuGet Link       | Nuget Version | Downloads | Repo Link |
