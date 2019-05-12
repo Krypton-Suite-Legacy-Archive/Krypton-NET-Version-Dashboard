@@ -1,6 +1,6 @@
 # <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/KR%2064%20%20x%2064%20Purple.png" /> Krypton .NET Version Dashboard
 
-**This will make more sense soon!**
+**This repository is designed to show information about the current state of all supported versions.**
 
 ## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> .NET Standard Toolkit Information
 
