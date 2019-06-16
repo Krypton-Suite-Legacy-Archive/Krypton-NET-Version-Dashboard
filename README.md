@@ -40,7 +40,7 @@
 
 ================================================================================
 
-# Standard Toolkit Demos
+# <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> Standard Toolkit Demos
 
 | Version | Installer | Binaries Only |
 |---|---|---|
@@ -58,7 +58,7 @@
 
 ================================================================================
 
-# Extendeed Toolkit Demos
+# <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/KR%2064%20%20x%2064%20Orange.png" /> Extended Toolkit Demos
 
 | Version | Installer | Binaries Only |
 |---|---|---|
