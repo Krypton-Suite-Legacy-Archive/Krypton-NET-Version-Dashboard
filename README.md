@@ -39,3 +39,39 @@
 | <img src="https://img.shields.io/badge/Version-5.480-ff69b4.svg" /> | [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.480-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5480/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5480.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonExtendedToolkit5480.svg?color=blue&label=NuGet%20Downloads) | <a href="https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.480"><img src="https://img.shields.io/badge/GitHub-Go%20to%20Repository-blueviolet.svg" /></a> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.480/master.svg) |
 
 ================================================================================
+
+# Standard Toolkit Demos
+
+| Version | Installer | Binaries Only |
+|---|---|---|
+| <img src="https://img.shields.io/badge/Version-5.400-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.450-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.451-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.452-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.460-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.461-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.462-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.470-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.471-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.472-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.480-ff69b4.svg" /> |  |  |
+
+================================================================================
+
+# Extendeed Toolkit Demos
+
+| Version | Installer | Binaries Only |
+|---|---|---|
+| <img src="https://img.shields.io/badge/Version-5.400-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.450-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.451-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.452-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.460-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.461-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.462-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.470-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.471-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.472-ff69b4.svg" /> |  |  |
+| <img src="https://img.shields.io/badge/Version-5.480-ff69b4.svg" /> |  |  |
+
+================================================================================
