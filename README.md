@@ -44,7 +44,7 @@
 
 | Version | Installer | Binaries Only |
 |---|---|---|
-| <img src="https://img.shields.io/badge/Version-5.400-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
+| <img src="https://img.shields.io/badge/Version-5.400-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href="https://1drv.ms/u/s!AnKzT7Em-ox5g71LYYXDHkTUHeSBtA"><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
 | <img src="https://img.shields.io/badge/Version-5.450-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
 | <img src="https://img.shields.io/badge/Version-5.451-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
 | <img src="https://img.shields.io/badge/Version-5.452-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
