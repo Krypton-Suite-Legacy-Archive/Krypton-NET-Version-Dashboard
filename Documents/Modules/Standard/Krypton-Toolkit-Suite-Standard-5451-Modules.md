@@ -1,0 +1,11 @@
+## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> .NET Standard Toolkit 5.451 Module Information
+
+================================================================================
+
+| Module Name | Current Version | Downloads | Link |
+|---|---|---|---|
+| <img src="https://img.shields.io/badge/Module-Core-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5451CoreModule) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5451CoreModule?color=brightgreen) |  <a href="https://www.nuget.org/packages/KryptonToolkitSuite5451CoreModule/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Docking-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5451DockingModule) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5451DockingModule?color=brightgreen) |  <a href="https://www.nuget.org/packages/KryptonToolkitSuite5451DockingModule/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Navigator-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5451NavigatorModule) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5451NavigatorModule?color=brightgreen) |  <a href="https://www.nuget.org/packages/KryptonToolkitSuite5451NavigatorModule/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Ribbon-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5451RibbonModule) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5451RibbonModule?color=brightgreen) |  <a href="https://www.nuget.org/packages/KryptonToolkitSuite5451RibbonModule/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Workspace-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5451WorkspaceModule) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5451WorkspaceModule?color=brightgreen) |  <a href="https://www.nuget.org/packages/KryptonToolkitSuite5451WorkspaceModule/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
