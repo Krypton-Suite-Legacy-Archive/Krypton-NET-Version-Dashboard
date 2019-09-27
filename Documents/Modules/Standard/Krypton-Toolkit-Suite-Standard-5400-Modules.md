@@ -1,6 +1,6 @@
 ## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> .NET Standard Toolkit 5.400 Module Information
 
-================================================================================
+===============================================================================
 
 | Module Name | Current Version | Downloads | Link |
 |---|---|---|---|
