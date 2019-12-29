@@ -6,6 +6,12 @@
 
 ================================================================================
 
+## Version Syntax
+
+**For each version, they are labelled as follows `5.4xx`. The reason for this is to guarantee maximum compatibility for the chosen framework, for example, `480` is designed to work with .NET Framework 4.8, `450` for .NET Framework 4.5 and so on**
+
+================================================================================
+
 | Version | Repository Link | Last Commit | More Information |
 |---|---|---|---|
 | <img src="https://img.shields.io/badge/Version-5.400-ff69b4.svg" /> |  <a href="https://github.com/Wagnerp/Krypton-NET-5.400"><img src="https://img.shields.io/badge/GitHub-Go%20to%20Repository-blueviolet.svg" /></a> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-NET-5.400/master.svg) | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Documents/Modules/Standard/Krypton-Toolkit-Suite-Standard-5400-Modules.md"><img src="https://img.shields.io/badge/More-Information-informational" /></a> |
