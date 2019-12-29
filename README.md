@@ -2,13 +2,15 @@
 
 **This repository is designed to show information about the current state of all supported versions.**
 
-## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> .NET Standard Toolkit Information
-
 ================================================================================
 
 ## Version Syntax
 
 **For each version, they are labelled as follows `5.4xx`. The reason for this is to guarantee maximum compatibility for the chosen framework, for example, `480` is designed to work with .NET Framework 4.8, `450` for .NET Framework 4.5 and so on**
+
+================================================================================
+
+## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> .NET Standard Toolkit Information
 
 ================================================================================
 
