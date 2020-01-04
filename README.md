@@ -14,7 +14,7 @@
 
 ================================================================================
 
-| Version | Repository Link | Last Commit | More Information |
+| Version | Repository Link | Last Commit | More Information | Support Status |
 |---|---|---|---|
 | <img src="https://img.shields.io/badge/Version-5.400-ff69b4.svg" /> |  <a href="https://github.com/Wagnerp/Krypton-NET-5.400"><img src="https://img.shields.io/badge/GitHub-Go%20to%20Repository-blueviolet.svg" /></a> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-NET-5.400/master.svg) | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Documents/Modules/Standard/Krypton-Toolkit-Suite-Standard-5400-Modules.md"><img src="https://img.shields.io/badge/More-Information-informational" /></a> | <img src="https://img.shields.io/badge/Status-Supported-yellowgreen" />
 | <img src="https://img.shields.io/badge/Version-5.450-ff69b4.svg" /> | <a href="https://github.com/Wagnerp/Krypton-NET-5.450"><img src="https://img.shields.io/badge/GitHub-Go%20to%20Repository-blueviolet.svg" /></a> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Wagnerp/Krypton-NET-5.450/master.svg) | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Documents/Modules/Standard/Krypton-Toolkit-Suite-Standard-5450-Modules.md"><img src="https://img.shields.io/badge/More-Information-informational" /></a> | <img src="https://img.shields.io/badge/Status-Supported-yellowgreen" />
