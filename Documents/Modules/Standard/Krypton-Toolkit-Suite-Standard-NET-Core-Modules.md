@@ -1,0 +1,11 @@
+## <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> .NET Standard Toolkit 5.490 (.NET Core) Module Information
+
+===============================================================================
+
+| Module Name | Current Version | Downloads | Link |
+|---|---|---|---|
+| <img src="https://img.shields.io/badge/Module-Core-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Toolkit) | ![Nuget](https://img.shields.io/nuget/dt/Krypton.Toolkit?color=brightgreen) |  <a href="https://www.nuget.org/packages/Krypton.Toolkit/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Docking-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Docking) | ![Nuget](https://img.shields.io/nuget/dt/Krypton.Docking?color=brightgreen) |  <a href="https://www.nuget.org/packages/Krypton.Docking/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Navigator-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Navigator) | ![Nuget](https://img.shields.io/nuget/dt/Krypton.Navigator?color=brightgreen) |  <a href="https://www.nuget.org/packages/Krypton.Navigator/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Ribbon-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Ribbon) | ![Nuget](https://img.shields.io/nuget/dt/Krypton.Ribbon?color=brightgreen) |  <a href="https://www.nuget.org/packages/Krypton.Ribbon/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
+| <img src="https://img.shields.io/badge/Module-Workspace-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/Krypton.Workspace) | ![Nuget](https://img.shields.io/nuget/dt/Krypton.Workspace?color=brightgreen) |  <a href="https://www.nuget.org/packages/Krypton.Workspace/"><img src="https://img.shields.io/badge/Download-Link-9cf.svg" /></a> |
