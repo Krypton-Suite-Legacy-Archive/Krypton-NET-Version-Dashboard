@@ -69,7 +69,7 @@
 
 | Version | Type |
 |---|---|
-| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-EXE-brightgreen" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-MSIX-blue" /></a> |
+| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Documents/Installers/Standard/5.500/EXE/Krypton%20Toolkit%20Suite.exe"><img src="https://img.shields.io/badge/Download-EXE-brightgreen" /></a> |
+| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Documents/Installers/Standard/5.500/MSIX/Krypton%20Toolkit%20Suite-x64.msix"><img src="https://img.shields.io/badge/Download-MSIX-blue" /></a> |
 
 ================================================================================
