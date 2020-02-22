@@ -49,19 +49,10 @@
 
 # <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/Square%20Design%2064%20x%2064%20New%20Green.png" /> Standard Toolkit Demos
 
-| Version | Installer | Binaries Only |
-|---|---|---|
-| <img src="https://img.shields.io/badge/Version-5.400-ff69b4.svg" /> | <a href="https://tinyurl.com/y4vyqtph"><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href="https://1drv.ms/u/s!AnKzT7Em-ox5g71LYYXDHkTUHeSBtA"><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.450-ff69b4.svg" /> | <a href="https://1drv.ms/u/s!AnKzT7Em-ox5g71YuRbRi65WOWFe9Q"><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href="https://1drv.ms/u/s!AnKzT7Em-ox5g71ZATQ0c4XGzsgtcA"><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.451-ff69b4.svg" /> | <a href="https://1drv.ms/u/s!AnKzT7Em-ox5g71atJpsjpPudnzhKQ?e=ypSEIV"><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href="https://1drv.ms/u/s!AnKzT7Em-ox5g71bLk6MGYz1Fl9TVw?e=cDJdWZ"><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.452-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.460-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.461-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.462-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.470-ff69b4.svg" /> | <a href="https://tinyurl.com/y4ssw5qa"><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.471-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.472-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.480-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-Installer-green.svg" /></a> | <a href=""><img src="https://img.shields.io/badge/Download-Binaries-green.svg" /></a> |
+| Version | Type |
+|---|---|
+| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/raw/master/Documents/Installers/Standard/5.500/EXE/Krypton%20Toolkit%20Suite.exe"><img src="https://img.shields.io/badge/Download-EXE-brightgreen" /></a> |
+| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/raw/master/Documents/Installers/Standard/5.500/MSIX/Krypton%20Toolkit%20Suite-x64.msix"><img src="https://img.shields.io/badge/Download-MSIX-blue" /></a> |
 
 ================================================================================
 
@@ -69,7 +60,7 @@
 
 | Version | Type |
 |---|---|
-| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/raw/master/Documents/Installers/Standard/5.500/EXE/Krypton%20Toolkit%20Suite.exe"><img src="https://img.shields.io/badge/Download-EXE-brightgreen" /></a> |
-| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Documents/Installers/Standard/5.500/MSIX/Krypton%20Toolkit%20Suite-x64.msix"><img src="https://img.shields.io/badge/Download-MSIX-blue" /></a> |
+| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-EXE-brightgreen" /></a> |
+| <img src="https://img.shields.io/badge/Version-5.500-ff69b4.svg" /> | <a href=""><img src="https://img.shields.io/badge/Download-MSIX-blue" /></a> |
 
 ================================================================================
